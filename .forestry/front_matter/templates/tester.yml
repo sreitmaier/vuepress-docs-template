@@ -2,4 +2,10 @@
 label: Tester
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: hi
+  label: HI
+- type: image_gallery
+  name: again_
+  label: 'again '
